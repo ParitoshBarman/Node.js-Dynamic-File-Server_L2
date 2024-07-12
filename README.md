@@ -3,13 +3,21 @@
 ### Output
 - In home page
 ![Image description](/images/Capture.PNG)
+
 <br>
+
 - Under the node_modules
 ![Image description](/images/Capture2.PNG)
+
 <br>
+
 - Under the node_modules > nodemon
 ![Image description](/images/Capture3.PNG)
+
 <br>
+
 - Under the node_modules > nodemon > jsconfig.json
 ![Image description](/images/Capture4.PNG)
+
 <br>
+
